@@ -1,4 +1,4 @@
-# PRACTICA-N-3_-ESP32-DHT11-LCD
+# PRACTICA-N-3_-ESP32-DHT22-LCD
 Este repositorio muestra la tercera practica practica del diplomado de como podemos programar una ESP32 con el sensor DHT22 y mostrando el resutado en la LCD.
 
 ## Introducción
